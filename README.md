@@ -1,6 +1,8 @@
 # RecyclerView2
 #Screenshot
-![recyclerview2](https://cloud.githubusercontent.com/assets/22124998/20030221/f66fadc8-a392-11e6-8966-6ceb8e08d1a3.png)
+![recycleview2 2](https://cloud.githubusercontent.com/assets/22124998/22393810/586aa43e-e541-11e6-8a7c-86dcfcecf80f.png)
+![recycleview2 1](https://cloud.githubusercontent.com/assets/22124998/22393811/5af68fd8-e541-11e6-85b3-2a4e90dc386d.png)
+
 #Identitas
 nama: Ad Reana Vidya Ramadani<br>
 kelas: XI RPL 5<br>
