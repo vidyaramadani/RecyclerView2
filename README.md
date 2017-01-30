@@ -1,7 +1,9 @@
 # RecyclerView2
 #Screenshot
-![recycleview2 2](https://cloud.githubusercontent.com/assets/22124998/22393810/586aa43e-e541-11e6-8a7c-86dcfcecf80f.png)
-![recycleview2 1](https://cloud.githubusercontent.com/assets/22124998/22393811/5af68fd8-e541-11e6-85b3-2a4e90dc386d.png)
+![screenshot_20170130-140713](https://cloud.githubusercontent.com/assets/22124998/22414859/a827e4a4-e6f5-11e6-8407-bf32fc5828d9.png)
+![screenshot_20170130-140719](https://cloud.githubusercontent.com/assets/22124998/22414860/a82d8346-e6f5-11e6-8619-373838dae0fb.png)
+![screenshot_20170130-140708](https://cloud.githubusercontent.com/assets/22124998/22414861/a82e3e6c-e6f5-11e6-9db7-8ccd57a07c62.png)
+
 
 #Identitas
 nama: Ad Reana Vidya Ramadani<br>
